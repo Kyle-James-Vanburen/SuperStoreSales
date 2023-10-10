@@ -89,4 +89,4 @@ At the top, there is a year filter allowing selection from 2015 to 2019, along w
 For questions or further assistance, please contact the project maintainer:
 Email: vanburen.kyle@yahoo.com
 
-Feel free to explore the data and gain valuable insights into employee absenteeism patterns. Thank you for your interest in my analysis dashboard!
+Feel free to explore the data and gain valuable insights into superstore sales data patterns. Thank you for your interest in my analysis dashboard!
