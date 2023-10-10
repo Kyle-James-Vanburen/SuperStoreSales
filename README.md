@@ -84,7 +84,7 @@ At the top, there is a year filter allowing selection from 2015 to 2019, along w
 7. **Holiday High:**
    December recorded the highest average sales within the Phones subcategory at $244.05, indicating a surge, possibly due to the holiday season.
 
-8. Top Revenue State:**
+8. **Top Revenue State:**
    California rolled in a total of $446.31k revenue, which ranked as the top revenue producing state.
 
 ### Contact ###
